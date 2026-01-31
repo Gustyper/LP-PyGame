@@ -1,4 +1,7 @@
 # Hallow Survival
+
+<img width="1598" height="987" alt="image" src="https://github.com/user-attachments/assets/c25f7626-2711-4552-a46f-e4a94aaed1d3" />
+
 ### Jogo em Pygame para Avaliação de Linguagens de Programação
 
 ---
